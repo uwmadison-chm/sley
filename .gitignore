@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Cloned reference repos -- other people's code, not ours to redistribute.
+# See reference/README.md for how to populate this directory.
+/reference/*
+!/reference/README.md
